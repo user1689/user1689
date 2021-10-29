@@ -79,10 +79,12 @@
 	</a>
 </p>
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
 <p style="flex: 1; margin-bottom: 0;"><img align="left" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user1689&layout=compact" alt="user1689" /></p>
 <p style="width: 50%; margin-bottom: 20px; margin-left: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user1689&show_icons=true&locale=en" alt="user1689" /></p>
-</div>
+</div> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=monokai)
 
 
 <!--
