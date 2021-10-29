@@ -84,7 +84,7 @@
 <p style="width: 50%; margin-bottom: 20px; margin-left: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user1689&show_icons=true&locale=en" alt="user1689" /></p>
 </div> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uprightclear&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user1689&theme=monokai)
 
 
 <!--
