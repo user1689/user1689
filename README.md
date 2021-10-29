@@ -80,7 +80,8 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-<p style="flex: 1; margin-bottom: 0;"><img align="left" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=user1689&show_icons=true&locale=en&layout=compact" alt="user1689" /></p>
+<!-- <p style="flex: 1; margin-bottom: 0;"><img align="left" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=user1689&show_icons=true&locale=en&layout=compact" alt="user1689" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p style="width: 50%; margin-bottom: 20px; margin-left: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=user1689&show_icons=true&locale=en" alt="user1689" /></p>
 </div>
 
