@@ -18,6 +18,7 @@
 <a href="https://leetcode-cn.com/u/stoic-goldbergqp4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ccc_code" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<!--
 <p align="left">
   	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -80,6 +81,7 @@
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 	</a>
 </p>
+-->
 
 <!-- <div style="display: flex; align-items: center;">
 <p style="flex: 1; margin-bottom: 0;"><img align="left" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user1689&layout=compact" alt="user1689" /></p>
