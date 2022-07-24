@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leo</h1>
-<!-- <h3 align="center">A 0-year Python developer in Beijing</h3> -->
+<h1 align="center">Hi 👋, I'm Lanchuan Lin</h1>
+<!-- <h3 align="center">A 1-year Java developer in Chongqing</h3> -->
 <h3 align="center">☕ On the Road 🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user1689&label=Profile%20views&color=0e75b6&style=flat" alt="user1689" /> </p>
