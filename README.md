@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user1689&label=Profile%20views&color=0e75b6&style=flat" alt="user1689" /> </p>
 
-- 🌱  I’m currently in **M.S. of Information Systems**
+- 🌱  I’m currently in **M.S. of Computer Software Engineering**
 - 👨‍💻  Some of my projects are available at [Projects](https://github.com/user1689?tab=repositories)
 - 📫  How to reach me **onlyfresh1689@gmail.com**
 <!-- - 📝  I regularly write articles on [Blog](https://user1689.github.io/cv/blog) -->
