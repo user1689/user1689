@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lanchuan Lin</h1>
+<h1 align="center">Hi 👋, I'm Leo Lin</h1>
 <!-- <h3 align="center">A 1-year Java developer in Chongqing</h3> -->
 <h3 align="center">☕ On the Road 🛠️</h3>
 
