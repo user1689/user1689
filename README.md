@@ -6,7 +6,7 @@
 
 - 🌱  I’m currently in **M.S. of Computer Software Engineering**
 - 👨‍💻  Some of my projects are available at [Projects](https://github.com/user1689?tab=repositories)
-- 📫  How to reach me **onlyfresh1689@gmail.com**
+- 📫  How to reach me **stoicbergqp8@gmail.com**
 <!-- - 📝  I regularly write articles on [Blog](https://user1689.github.io/cv/blog) -->
 <!-- - 📄  Know about my experiences [Personal Website](https://user1689.github.io/cv) -->
 
