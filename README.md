@@ -7,6 +7,7 @@
 - 🌱  I’m currently in **M.S. of Computer Software Engineering**
 - 👨‍💻  Some of my projects are available at [Projects](https://github.com/user1689?tab=repositories)
 - 📫  How to reach me **stoicbergqp8@gmail.com**
+- 📝  See my recently project - Dijkstra's algo visualizer
 <!-- - 📝  I regularly write articles on [Blog](https://user1689.github.io/cv/blog) -->
 <!-- - 📄  Know about my experiences [Personal Website](https://user1689.github.io/cv) -->
 
@@ -14,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hou-xi-77a49993" height="30" width="40" /></a>
-<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xi.hou.127" height="30" width="40" /></a>
+<!-- <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xi.hou.127" height="30" width="40" /></a> -->
 <a href="https://leetcode-cn.com/u/stoic-goldbergqp4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ccc_code" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
