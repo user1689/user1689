@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Lin</h1>
-<!-- <h3 align="center">A 1-year Java developer in Chongqing</h3> -->
+<!-- <h3 align="center">A Java developer in Chongqing</h3> -->
 <h3 align="center">☕ On the Road 🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user1689&label=Profile%20views&color=0e75b6&style=flat" alt="user1689" /> </p>
@@ -7,7 +7,7 @@
 - 🌱  I’m currently in **M.S. of Computer Software Engineering**
 - 👨‍💻  Some of my projects are available at [Projects](https://github.com/user1689?tab=repositories)
 - 📫  How to reach me **stoicbergqp8@gmail.com**
-- 📝  See my recently project - [Dijkstra's algo visualizer](https://nimble-mochi-a4fe14.netlify.app)
+- 📝  See my recently project associated with Northeastern University - [Dijkstra's algo visualizer](https://nimble-mochi-a4fe14.netlify.app)
 <!-- - 📝  I regularly write articles on [Blog](https://user1689.github.io/cv/blog) -->
 <!-- - 📄  Know about my experiences [Personal Website](https://user1689.github.io/cv) -->
 
