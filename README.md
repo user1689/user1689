@@ -20,6 +20,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <a>Java, Typescript, Python3</a>
+<a>Docker, Kubernetes, Jenkins, Github Actions, GitLab</a>
 <p></p>
 <!--
 <p align="left">
