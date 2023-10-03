@@ -18,8 +18,8 @@
 <!-- <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xi.hou.127" height="30" width="40" /></a> -->
 <a href="https://leetcode-cn.com/u/stoic-goldbergqp4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ccc_code" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<a>Java, Typescript, Python3, Docker, Kubernetes, Jenkins, Github Actions, GitLab</a>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- <a>Java, Typescript, Python3, Docker, Kubernetes, Jenkins, Github Actions, GitLab</a> -->
 <p></p>
 <!--
 <p align="left">
